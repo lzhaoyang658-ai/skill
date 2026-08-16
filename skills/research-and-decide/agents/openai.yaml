@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究与决策"
+  short_description: "基于可靠证据研究问题、比较备选方案并给出清晰且可执行的决策建议"
+  default_prompt: "使用 $research-and-decide 研究这个问题，比较可行方案，并给出有证据支持的明确建议。"
