@@ -1,0 +1,4 @@
+interface:
+  display_name: "多平台内容改写"
+  short_description: "面向公众号、人人都是产品经理和少数派的一稿多平台深度改写"
+  default_prompt: "使用 $content-repurpose 将这份内容分别改写为公众号、人人都是产品经理和少数派版本。"
